@@ -1,0 +1,36 @@
+UserID: 1981775579 | Time: 2024-08-07 16:55:26.784467 | Command: /bgmi | Target: 20.204.159.214 | Port: 20359 | Time: 500
+Username: @jatt_agya
+Target: 20.204.159.214
+Port: 20359
+Time: 500
+
+UserID: 7292144634 | Time: 2024-08-07 20:51:05.103887 | Command: /bgmi | Target: 20.235.88.156 | Port: 18974 | Time: 180
+Username: @niggabetrayed
+Target: 20.235.88.156
+Port: 18974
+Time: 180
+
+UserID: 1981775579 | Time: 2024-08-07 20:51:18.294870 | Command: /bgmi | Target: 20.204.159.214 | Port: 20359 | Time: 500
+Username: @jatt_agya
+Target: 20.204.159.214
+Port: 20359
+Time: 500
+
+UserID: 1981775579 | Time: 2024-08-07 20:55:55.848631 | Command: /bgmi | Target: 20.204.159.214 | Port: 20359 | Time: 500
+Username: @jatt_agya
+Target: 20.204.159.214
+Port: 20359
+Time: 500
+
+UserID: 1970192536 | Time: 2024-08-07 21:17:57.943379 | Command: /bgmi | Target: 20.235.93.164 | Port: 24781 | Time: 200
+Username: @DynamonGamer95
+Target: 20.235.93.164
+Port: 24781
+Time: 200
+
+UserID: 1981775579 | Time: 2024-08-07 21:19:36.684853 | Command: /bgmi | Target: 20.204.159.214 | Port: 20359 | Time: 500
+Username: @jatt_agya
+Target: 20.204.159.214
+Port: 20359
+Time: 500
+
